@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Exercise 0: Assessment Preparation
+# Exercise 1: Assessment Preparation
 # -------------------------------------------
 # This exercise will help you prepare for Assessment 3: Python Program.
 # If you can complete this exercise, you will be ready to tackle any of
